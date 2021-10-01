@@ -1,0 +1,19 @@
+p::first-letter {
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+ol {
+    color: darkgreen;
+    font-family: maroon;
+}
+a:hover {
+	text-decoration: underline;
+	color:#000;
+	background:#ff0;
+	}
+a:active {
+    text-decoration: underline;
+    color:blue;
+}
